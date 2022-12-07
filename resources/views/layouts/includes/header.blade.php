@@ -45,6 +45,10 @@
             color: white !important;
         }
 
+        .cw {
+            color: white !important;
+        }
+
         .table {
             margin-bottom: 90px !important;
         }
