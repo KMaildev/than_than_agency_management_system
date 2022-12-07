@@ -10,6 +10,13 @@
             </li>
 
             <li class="menu-item">
+                <a href="{{ route('demand.index') }}" class="menu-link">
+                    <i class="menu-icon tf-icons bx bx-layout"></i>
+                    Demand
+                </a>
+            </li>
+
+            <li class="menu-item">
                 <a href="{{ route('overseas_agent.index') }}" class="menu-link">
                     <i class="menu-icon tf-icons bx bx-layout"></i>
                     Overseas Company
